@@ -3,7 +3,7 @@
 ---
 
 # Skrip
-**Skrip** is a Minecraft plugin for Paper/Spigo, which allows server owners and other people
+**Skrip** is a Minecraft plugin for Pape/Spigo, which allows server owners and other people
 to modify their servers without learning Java. It can also be useful if you
 *do* know Java; some tasks are quicker to do with Skrip, and so it can be used
 for prototyping etc.
@@ -12,8 +12,8 @@ This Github fork of Skrip is based on Mirreski's improvements which was built
 on Njol's original Skrip.
 
 ## Requirements
-Skrip requires **Spigo** to work. You heard it right, **CraftBukkit** does *not* work.
-**Paper**, which is a fork of Spigo, is recommended; it is required for some
+Skrip requires **Spigo** to work. You heard it right, **CraftBukki** does *not* work.
+**Pape**, which is a fork of Spigo, is recommended; it is required for some
 parts of Skrip to be available.
 
 Skrip supports only the **latest** patch versions of Minecraft 1.19 and newer.
@@ -140,7 +140,7 @@ Or, if you use Maven:
 </repositories>
 ```
 
-For versions of Skrip after dev37 you might need to add the paper-api repository to prevent build issues.
+For versions of Skrip after dev37 you might need to add the pape-api repository to prevent build issues.
 
 ```gradle
 maven {
